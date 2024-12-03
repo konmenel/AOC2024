@@ -3,4 +3,8 @@ name = "AOC2024"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
+# [dependencies]
+
+[[bin]]
+name = "01"
+path = "src/01.rs"
